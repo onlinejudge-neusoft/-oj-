@@ -4,8 +4,6 @@
 
 using namespace std;
 
-const int N = 1e6 + 10;
-
 vector<int> add(vector<int> &A, vector<int> &B)
 {
     vector<int> C;
